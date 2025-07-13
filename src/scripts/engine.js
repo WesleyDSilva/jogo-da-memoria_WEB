@@ -49,7 +49,7 @@ function checkMatch() {
     openCards[1].classList.remove("boxOpen");
   }
   openCards = [];
-  if (document.querySelectorAll("boxMatch".length === emojis.length)) {
+  if (document.querySelectorAll(".boxMatch").length === emojis.length) {
     alert("Você venceu!");
   }
 }
