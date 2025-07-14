@@ -28,10 +28,12 @@ Detecção automática de vitória
 
 Botão de reset para reiniciar a partida
 
-📸 Preview
+📸 Preview:
 [Para visualizar a página, cique aqui!](https://wesleydsilva.github.io/jogo-da-memoria_WEB/)
 
 🚀 Como executar:
+
 Clone este repositório:
 git clone https://github.com/seu-usuario/nome-do-repo.git
+
 Abra o arquivo index.html em qualquer navegador moderno.
